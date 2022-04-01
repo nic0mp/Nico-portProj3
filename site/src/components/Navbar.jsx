@@ -21,6 +21,9 @@ const Navbar = () => {
         </div>
         {/* Hamburger */}
         <div></div>
+
+        {/* Mobile Menu */}
+        <div></div>
     </div>
   )
 }
