@@ -24,6 +24,9 @@ const Navbar = () => {
 
         {/* Mobile Menu */}
         <div></div>
+        
+        {/* Social */}
+        <div></div>
     </div>
   )
 }
