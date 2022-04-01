@@ -19,11 +19,20 @@ const Navbar = () => {
             <li>Contact</li>
           </ul>
         </div>
+
         {/* Hamburger */}
-        <div></div>
+        <div>
+          <FaBars />
+        </div>
 
         {/* Mobile Menu */}
-        <div></div>
+        <ul>
+        <li>Home</li>
+          <li>About</li>
+          <li>Skills</li>
+          <li>Work</li>
+          <li>Contact</li>
+        </ul>
         
         {/* Social */}
         <div></div>
