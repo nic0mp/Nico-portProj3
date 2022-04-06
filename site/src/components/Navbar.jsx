@@ -36,7 +36,9 @@ const Navbar = () => {
         </ul>
         
         {/* Social */}
-        <div className='hidden'></div>
+        <div className='flex fixed flex-col top-[35%] left-0'>
+
+        </div>
     </div>
   )
 }
