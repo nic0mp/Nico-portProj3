@@ -40,7 +40,7 @@ const Navbar = () => {
         {/* Social */}
         <div className='flex fixed flex-col top-[35%] left-0'>
           <ul>
-            <li>
+            <li className='w-[160px] h-[60px] flex justify-between items-center'>
               <a href="/">
                 Linkedin <FaFacebook />
               </a>
