@@ -9,9 +9,10 @@ const Home = () => {
         
         {/* container */}
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
-            <p> Hi</p>
-            <h1>Nico Pinguel</h1>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+            <p className='text-pink-600'> Hi, I am</p>
+            <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Nico Pinguel</h1>
+            <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a developer</h2>
+            <p className='text-[#8892b0] py-4 max-w-[700px]'>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
             <div>
                 <button>View Work<HiArrowNarrowRight/></button>
