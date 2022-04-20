@@ -11,12 +11,12 @@ const About = () => {
           <div></div>
         </div>
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
-          <div>
+          <div className='sm:text-right text-4xl font-bold'>
             <p>Hi, I'm Nico very pleased to meet you. Feel free to look around</p>
           </div>
           <div>
             <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut </p>
+          eiusmod tempor incididunt ut ipsum dolor sit amet, consectetur adipiscing elit </p>
           </div>
         </div>
       </div>
