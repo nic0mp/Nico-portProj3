@@ -12,6 +12,16 @@ const Skills = () => {
   return (
     <div name='skills'>
         {/*container*/}
+        <div>
+            <div>
+                <p>Experience</p>
+                <p>These are the technologies I've worked with</p>
+            </div>
+
+            <div>
+                
+            </div>
+        </div>
 
     </div>
   )
