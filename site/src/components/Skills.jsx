@@ -10,7 +10,7 @@ import Tailwind from '../assets/tailwind.png';
 
 const Skills = () => {
   return (
-    <div name='skills'>
+    <div name='skills' className='bg-[#0a192f]'>
         {/*container*/}
         <div>
             <div>
@@ -19,7 +19,9 @@ const Skills = () => {
             </div>
 
             <div>
-                
+                <div>
+                    <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
+                </div>
             </div>
         </div>
 
