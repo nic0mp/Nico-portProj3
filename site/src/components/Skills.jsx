@@ -10,11 +10,11 @@ import Tailwind from '../assets/tailwind.png';
 
 const Skills = () => {
   return (
-    <div name='skills' className='bg-[#0a192f]'>
+    <div name='skills' className='bg-[#0a192f] text-gray-300'>
         {/*container*/}
-        <div>
+        <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>
-                <p>Experience</p>
+                <p className='text-4xl font-bold inline border-b-4 border-orange-500'>Experience</p>
                 <p>These are the technologies I've worked with</p>
             </div>
 
