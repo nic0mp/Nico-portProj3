@@ -21,6 +21,7 @@ const Skills = () => {
             <div>
                 <div>
                     <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
+                    <p>HTML</p>
                 </div>
             </div>
         </div>
