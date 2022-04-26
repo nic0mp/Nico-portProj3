@@ -23,6 +23,34 @@ const Skills = () => {
                     <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
                     <p>HTML</p>
                 </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={CSS} alt="HTML icon" />
+                    <p>CSS</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={ReactImg} alt="HTML icon" />
+                    <p>React</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
+                    <p>HTML</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
+                    <p>HTML</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
+                    <p>HTML</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
+                    <p>HTML</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
+                    <p>HTML</p>
+                </div>
             </div>
         </div>
 
