@@ -1,4 +1,6 @@
 import React from 'react'
+import WorkImg from '../assets/workImg.jpeg'
+import realEstate from '../assets/realestate.jpg'
 
 const Work = () => {
   return (
@@ -8,8 +10,11 @@ const Work = () => {
                 <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>Work</p>
                 <p className='py-6'>Checkout some of my recent work</p>
             </div>
-            <div className='grid sm:grid-cols-2 md-cols-3 gap-4'>
-                <div className='shadow-lg shadow-['>
+            <div style={{backgroundImage: `url(${WorkImg})`}}
+            className='grid sm:grid-cols-2 md-cols-3 gap-4'>
+                <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    
+                    {/*Hover Effects */}
                     <div>
                         <span>
 
