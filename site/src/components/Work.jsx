@@ -16,12 +16,15 @@ const Work = () => {
                     
                     {/*Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
-                        <span>
-
+                        <span  className='text-2xl font-bold text-white tracking-wider'>
+    React JS Application
                         </span>
-                        <div>
+                        <div className='pt-8 text-center'>
                             <a href="/">
-                                <button></button>
+                                <button>Demo</button>
+                            </a>
+                            <a href="/">
+                                <button>Code</button>
                             </a>
                         </div>
                     </div>
