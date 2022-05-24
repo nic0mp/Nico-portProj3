@@ -3,6 +3,7 @@ import {FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook} from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
 import { BsFillPersonLinesFill} from 'react-icons/bs'
 import Logo from '../assets/logo.png'
+import {Link} from 'react-scroll'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false)
@@ -16,7 +17,11 @@ const Navbar = () => {
 
         {/* menu */}
           <ul className='hidden md:flex'>
-            <li>Home</li>
+            <li>
+            <Link to="test1" smooth={true} duration={500}>
+          Test 1
+        </Link>
+            </li>
             <li>About</li>
             <li>Skills</li>
             <li>Work</li>
