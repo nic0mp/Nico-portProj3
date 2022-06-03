@@ -15,7 +15,7 @@ const About = () => {
             <p>Hi, I'm Nico very pleased to meet you. Feel free to look around</p>
           </div>
           <div>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            <p> YOLO ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut ipsum dolor sit amet, consectetur adipiscing elit </p>
           </div>
         </div>
